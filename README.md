@@ -1,6 +1,16 @@
 ### Hi there, I'm [Vidita Chavda!](https://github.com/vidita810) 👋
+<a href="https://www.linkedin.com/in/vidita810/">
+  <img align="left" alt="Vidita's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/vidita810">
+  <img align="left" alt="Vidita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-- 🔭 I’m currently working in Appivo
+<br/>
+<br/>
+
+
+- 🔭 I’m currently working in Appivo as Senior Solutions Developer, I have total 11+ years of experience in IT industry.
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on learning new projects together.
 - 🤔 I’m looking for help with anything related to Full Stack Development.
