@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on learning new projects together.
 - 🤔 I’m looking for help with anything related to Full Stack Development.
-- 💬 Ask me about Agile Project Development.
+- 💬 Ask me about Agile Project Development, SQL/PLSQL Database.
 - 📫 How to reach me: [Linkedin - @vidita810](https://www.linkedin.com/in/vidita810/) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to do doodling, checkout my Instagram [Instagram - @vidi.doodles] (https://www.instagram.com/vidi.doodles/) and I also share some interesting quotes on [Threads @gulabjaambu] (https://www.threads.net/@gulabjaambu).
