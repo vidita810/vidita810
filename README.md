@@ -1,9 +1,15 @@
 ### Hi there, I'm [Vidita Chavda!](https://github.com/vidita810) 👋
 <a href="https://www.linkedin.com/in/vidita810/">
-  <img align="left" alt="Vidita's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Vidita's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.6.0/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/vidita810">
-  <img align="left" alt="Vidita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Vidita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.6.0/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/vidi.doodles/">
+  <img align="left" alt="Vidita's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.6.0/icons/instagram.svg" />
+</a>
+<a href="https://www.threads.net/@gulabjaambu">
+  <img align="left" alt="Vidita's Threads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.6.0/icons/threads.svg" />
 </a>
 
 <br/>
